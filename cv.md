@@ -10,3 +10,17 @@ I`m a hard-working person who knows how \
 to work in a team. Kind and responsive.\
 Ready for challenges and very motivated.\
 ##Skills
+*HTML
+*CSS
+*JavaScript
+*Git
+##Code Example
+
+```
+function camilize(str){
+        return str
+            .split('-')
+            .map((item, index) => index === 0 ? item : item[0].toUpperCase() + item.slice(1))
+            .join('');
+    }
+```
