@@ -43,5 +43,7 @@ I have no commercial development experience.
   - [LearnJavascript](https://learn.javascript.ru/)
   - [HTML acadeny](https://htmlacademy.ru/)
   - Headfirst: "A Learner's Guide to Creating Standards-Based Web Pages".
-  ## English
-  A2
+
+## English
+
+A2
