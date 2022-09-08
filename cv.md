@@ -39,7 +39,7 @@ I have no commercial development experience.
 
 ## Education
 
-- University: Belarussian-Russian University, software engineer(in progress).
+- University: Belarussian-Russian University, software engineer.
   - [LearnJavascript](https://learn.javascript.ru/)
   - [HTML acadeny](https://htmlacademy.ru/)
   - Headfirst: "A Learner's Guide to Creating Standards-Based Web Pages".
